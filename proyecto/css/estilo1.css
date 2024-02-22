@@ -1,0 +1,24 @@
+*{
+    margin: 20px;
+}
+body{
+    font-family: Tahoma;
+}
+h1{
+    padding: 10px;
+    border: 30px;
+    border-style: dotted;
+    color: rgb(92, 92, 189);
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+p{
+    color: brown;
+    text-align: justify;
+    background-color: darkgoldenrod;
+}
+img{
+    width: 40%;
+
+}
